@@ -13,7 +13,7 @@
             "type": "path",
             "style": "plain",
             "properties": {
-              "style": "mixed"
+              "style": "full"
             },
             "template": " {{ .Path }} \u276f"
           },
