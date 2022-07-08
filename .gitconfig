@@ -1,0 +1,7 @@
+[credential]
+	helper = store
+[core]
+	editor = vim
+[user]
+	name = Thomas Kwashnak
+	email = thomaskwashnak@gmail.com
