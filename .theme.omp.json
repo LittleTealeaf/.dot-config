@@ -24,7 +24,6 @@
               "{{ if gt .Ahead 0 }}#2ce8f5{{ end }}",
               "{{ if gt .Behind 0 }}#f77622{{ end }}"
             ],
-            "foreground": "#ffffff",
             "properties": {
               "fetch_stash_count": true,
               "fetch_status": true,
